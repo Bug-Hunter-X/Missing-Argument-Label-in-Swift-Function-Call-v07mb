@@ -1,0 +1,3 @@
+# Missing Argument Label in Swift Function Call
+
+This repository demonstrates a common error in Swift: forgetting to include argument labels when calling a function that defines them.  The `bug.swift` file shows the erroneous code, while `bugSolution.swift` provides the corrected version. This is a crucial concept for writing clean and understandable Swift code.  Understanding argument labels is essential for avoiding this type of compiler error and writing more robust Swift applications.
